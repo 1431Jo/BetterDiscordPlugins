@@ -1,5 +1,5 @@
 # BetterDiscordPlugins
-These are Plugins for BetterDiscord, what you can install here: https://betterdiscord.app.
+These are Plugins for BetterDiscord, which you can install here: https://betterdiscord.app.
 <h2>Node</h2>
 <hr>
 This project serves to improve my JS skills and is therefore not to be seen as a professional project. There may be buggy codes.
